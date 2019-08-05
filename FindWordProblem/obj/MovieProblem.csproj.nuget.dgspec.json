@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rguberma\\Source\\Repos\\Interviews\\Interview\\FindWordProblem\\MovieProblem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rguberma\\Source\\Repos\\Interviews\\Interview\\FindWordProblem\\MovieProblem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rguberma\\Source\\Repos\\Interviews\\Interview\\FindWordProblem\\MovieProblem.csproj",
+        "projectName": "MovieProblem",
+        "projectPath": "C:\\Users\\rguberma\\Source\\Repos\\Interviews\\Interview\\FindWordProblem\\MovieProblem.csproj",
+        "packagesPath": "C:\\Users\\rguberma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rguberma\\Source\\Repos\\Interviews\\Interview\\FindWordProblem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rguberma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://proget.ascensus.com:81/nuget/Development": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

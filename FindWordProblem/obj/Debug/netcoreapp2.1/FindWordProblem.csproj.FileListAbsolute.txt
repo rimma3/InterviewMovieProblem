@@ -1,0 +1,11 @@
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.csprojAssemblyReference.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.csproj.CoreCompileInputs.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.AssemblyInfoInputs.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.AssemblyInfo.cs
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\FindWordProblem.deps.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\FindWordProblem.runtimeconfig.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\FindWordProblem.runtimeconfig.dev.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\FindWordProblem.dll
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\FindWordProblem.pdb
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.dll
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\FindWordProblem.pdb

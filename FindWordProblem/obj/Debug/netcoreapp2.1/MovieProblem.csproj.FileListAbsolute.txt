@@ -1,0 +1,11 @@
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\MovieProblem.deps.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\MovieProblem.runtimeconfig.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\MovieProblem.runtimeconfig.dev.json
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\MovieProblem.dll
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\bin\Debug\netcoreapp2.1\MovieProblem.pdb
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.csprojAssemblyReference.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.csproj.CoreCompileInputs.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.AssemblyInfoInputs.cache
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.AssemblyInfo.cs
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.dll
+C:\Users\rguberma\Source\Repos\Interviews\Interview\FindWordProblem\obj\Debug\netcoreapp2.1\MovieProblem.pdb
